@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `node axios for the project`
+
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -68,3 +70,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### `drag and drop` to be design
+
+### `react to do ` to practice https://www.youtube.com/watch?v=bMMd7sawawQ&t=7s&ab_channel=CodingWithAdam
